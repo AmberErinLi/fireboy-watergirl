@@ -45,7 +45,7 @@ python main.py
 | Left / Right Arrow | Move Fireboy |
 | Up Arrow | Jump (when on the ground) |
 
-Watergirl's controls (planned: WASD or similar) will be added once she's playable.
+Watergirl's controls (planned: WAD) will be added once she's playable.
 
 ## Level format
 
